@@ -14,6 +14,6 @@ I'm Isaac, a full-stack web developper based in Paris. I enjoy both front-end an
 * 🍱 Cooking
 
 Hope you will enjoy your tour on my profile 🖐 You can view more on the followings links :
-* [Personal website (update coming soon!)](https://isaacgros.fr/)
+* [Personal website](https://isaacgros.fr/)
 * [Codepen](https://codepen.io/your-work)
 * [Gitlab](https://gitlab.com/isaac-gros/)
